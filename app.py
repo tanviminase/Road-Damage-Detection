@@ -1,0 +1,4 @@
+Precision
+Recall
+mAP50
+mAP50-95
